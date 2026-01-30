@@ -18,6 +18,3 @@ This project is suitable for academic work related to:
 - Graph Theory
 - File Management in C
 - Social Network Modeling
-
-## 👩‍💻 Author
-**Maria Benmabrouk**
